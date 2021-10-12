@@ -1,4 +1,4 @@
-# Untanggle Confusions Revoloving Around Deep Neural Nets
+# Untanggle Confusions Revoloving Around Neural Nets
 
 - Batch Normalization vs. Dropout
 - Game Theory-Shapley values: Explain Unexplainables
