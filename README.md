@@ -7,7 +7,8 @@
 - Game Theory-Shapley values: Explain Unexplainables
 
 # Datasets 
-- CIFAR10 : https://keras.io/api/datasets/cifar10/
+- Batch Normalization vs. Dropout: CIFAR10 (https://keras.io/api/datasets/cifar10/)
+- Game Theory-Shapley values: Google Crawled Images (saved as zip file in the Shapley folder)
 
 # Environmnet
 - Google Colab - GPU
