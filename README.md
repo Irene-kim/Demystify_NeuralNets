@@ -1,4 +1,4 @@
-# Untanggle Confusions Revoloving Around Neural Nets
+# Demystifying Neural Nets
 
 #### Explanation can be found in the link next to each category 
 
