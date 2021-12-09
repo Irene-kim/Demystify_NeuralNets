@@ -11,5 +11,5 @@
 - Batch Normalization vs. Dropout: CIFAR10 (https://keras.io/api/datasets/cifar10/)
 - Game Theory-Shapley values: Google Crawled Images (saved as zip file in the Shapley folder)
 
-# Environmnet
+# Environment
 - Google Colab - GPU
