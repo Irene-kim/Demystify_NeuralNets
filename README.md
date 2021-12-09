@@ -1,6 +1,6 @@
 # Demystifying Neural Nets
 
-#### Explanation can be found in the link next to each category 
+#### Detailed explanation of each theme can be found in the link next to each category 
 
 - Batch Normalization vs. Dropout: 
   https://medium.com/mlearning-ai/demystifying-batch-normalization-vs-drop-out-1c8310d9b516
