@@ -4,7 +4,8 @@
 
 - Batch Normalization vs. Dropout: 
   https://medium.com/mlearning-ai/demystifying-batch-normalization-vs-drop-out-1c8310d9b516
-- Game Theory-Shapley values: Explain Unexplainables
+- Game Theory-Shapley values: Explain Unexplainables:
+  https://medium.com/mlearning-ai/demystifying-neural-nets-with-shapley-values-cca29c836089
 
 # Datasets 
 - Batch Normalization vs. Dropout: CIFAR10 (https://keras.io/api/datasets/cifar10/)
